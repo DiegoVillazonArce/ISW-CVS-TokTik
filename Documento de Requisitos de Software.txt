@@ -1,4 +1,5 @@
 # Documento de Requisitos de Software
+Diego Villazon
 
 ## 1. Introducción
 
@@ -14,6 +15,8 @@ informacion mucho mas antes que otros usuarios y asi manterse informado al momen
 ### 1.4. Uso Previsto
 
 ### 1.5. Descripción General
+
+El software funcionaria de la misma forma que TikTok, solamente que mostrará información verificada en formato de videos de 1 minuto o menos. Además, el software tendrá métodos de pago para suscribirse y tener acceso a las noticias. 
 
 ## 2. Requisitos
 
